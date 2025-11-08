@@ -1,0 +1,241 @@
+/* ---------- GLOBAL STYLES ---------- */
+body {
+  font-family: "Poppins", sans-serif;
+  background: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80')
+    no-repeat center center/cover;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* ---------- CONTAINER ---------- */
+.app-container {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 20px;
+  width: 90%;
+  max-width: 900px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+}
+
+/* ---------- HEADER ---------- */
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+header h1 {
+  font-size: 2.5rem;
+  color: #ffcc70;
+}
+header p {
+  color: #f5f5f5;
+}
+
+/* ---------- INPUT SECTION ---------- */
+.input-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+#inputIngredients {
+  flex: 1;
+  padding: 0.8rem;
+  border-radius: 10px;
+  border: none;
+  font-size: 1rem;
+  outline: none;
+}
+
+/* ---------- MICROPHONE BUTTON ---------- */
+#micBtn {
+  background: #ff7b00;
+  border: none;
+  padding: 0.7rem 0.9rem;
+  border-radius: 50%;
+  cursor: pointer;
+  color: white;
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+}
+#micBtn:hover {
+  background: #ffaa00;
+  transform: scale(1.1);
+}
+#micBtn.listening {
+  background: #ff3b30;
+  animation: pulse 1s infinite;
+}
+
+/* Pulse animation while recording */
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 59, 48, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba(255, 59, 48, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 59, 48, 0);
+  }
+}
+
+/* ---------- BUTTON GROUP ---------- */
+.btn-group {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.btn-group button {
+  padding: 0.7rem 1.2rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+#btnSearch {
+  background: #28a745;
+  color: #fff;
+}
+#btnSearch:hover {
+  background: #34c759;
+  transform: scale(1.05);
+}
+
+#btnClear {
+  background: #dc3545;
+  color: #fff;
+}
+#btnClear:hover {
+  background: #ff4757;
+  transform: scale(1.05);
+}
+
+/* ---------- RESULTS GRID ---------- */
+.results {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+/* ---------- RECIPE CARD ---------- */
+.card {
+  background: #ffffff15;
+  border-radius: 20px;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2);
+}
+
+.recipe-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 1rem;
+}
+
+.recipe-title {
+  color: #ffcc70;
+  margin-bottom: 0.5rem;
+}
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+  color: #ddd;
+  font-size: 0.9rem;
+}
+
+.badge {
+  background: #ff7b00;
+  color: white;
+  padding: 0.2rem 0.6rem;
+  border-radius: 6px;
+}
+
+/* ---------- VIEW INSTRUCTIONS BUTTON ---------- */
+.view-instr-btn {
+  background: #007bff;
+  border: none;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 0.8rem;
+  transition: background 0.3s ease;
+}
+.view-instr-btn:hover {
+  background: #339af0;
+}
+
+/* ---------- INSTRUCTIONS AREA ---------- */
+.instructions {
+  margin-top: 1rem;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.7rem;
+  border-radius: 10px;
+}
+
+/* ---------- NO RESULTS ---------- */
+.no-results {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #ffc107;
+  margin-top: 1rem;
+}
+/* ---------- AUTOCOMPLETE SUGGESTIONS ---------- */
+.suggestions {
+  position: absolute;
+  top: 105%;
+  left: 0;
+  right: 0;
+  background: #fff;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  z-index: 1000;
+  max-height: 220px;
+  overflow-y: auto;
+  font-size: 0.95rem;
+  animation: fadeIn 0.15s ease-in-out;
+}
+
+.suggestion-item {
+  padding: 0.7rem 1rem;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+  transition: background 0.2s ease;
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.suggestion-item:hover {
+  background: #f0f0f0;
+}
+
+/* Smooth fade-in */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}

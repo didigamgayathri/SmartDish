@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recipe Finder 🍳</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Font Awesome for microphone icon -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  />
+</head>
+<body>
+  <div class="app-container">
+    <header>
+      <h1>🍲 SmartDish</h1>
+      <p>Find recipes based on the ingredients you have!</p>
+    </header>
+
+    <div class="search-area">
+      <div class="input-group">
+        <input id="inputIngredients" type="text" placeholder="Enter ingredients (comma separated)" />
+        <!-- Microphone icon button -->
+        <button id="micBtn" title="Speak Ingredients">
+          <i class="fa-solid fa-microphone"></i>
+        </button>
+      </div>
+      <div class="btn-group">
+        <button id="btnSearch">Search</button>
+        <button id="btnClear">Clear </button>
+      </div>
+      <p id="status"></p>
+    </div>
+
+    <div id="results" class="results"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

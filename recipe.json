@@ -1,0 +1,895 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Butter Masala",
+    "ingredients": ["Paneer", "Tomato", "Butter", "Cream", "Spices"],
+    "steps": ["Cook tomatoes with spices", "Blend into smooth gravy", "Add paneer and cream", "Simmer for 5 minutes"],
+    "image": "https://shwetainthekitchen.com/wp-content/uploads/2016/07/Paneer-Butter-Masala.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 2,
+    "name": "Aloo Gobi",
+    "ingredients": ["Potato", "Cauliflower", "Onion", "Tomato", "Spices"],
+    "steps": ["Chop potatoes and cauliflower", "Fry onions and spices", "Add vegetables and cook till soft"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.KGrDer57_XNmqIQR-srYfQHaE6?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 3,
+    "name": "Butter Chicken",
+    "ingredients": ["Chicken", "Butter", "Tomato Puree", "Cream", "Spices"],
+    "steps": ["Marinate chicken", "Cook in butter and tomato puree", "Add cream and simmer"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.tzG0D-E7C0rdoaIXJPdA2QHaHa?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 4,
+    "name": "Chole Masala",
+    "ingredients": ["Chickpeas", "Onion", "Tomato", "Spices"],
+    "steps": ["Soak chickpeas overnight", "Cook with onion and tomato gravy", "Add spices and simmer"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.t47lh7MVf6LRjrhB6sB6lwHaEK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 5,
+    "name": "Dal Tadka",
+    "ingredients": ["Lentils", "Ghee", "Garlic", "Onion", "Tomato", "Spices"],
+    "steps": ["Boil dal until soft", "Prepare tadka with ghee and spices", "Mix and simmer for 5 minutes"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.8_uRZ24hT3vkG38oPFLiYwHaEJ?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 6,
+    "name": "Rajma Chawal",
+    "ingredients": ["Kidney Beans", "Rice", "Tomato", "Onion", "Spices"],
+    "steps": ["Cook rajma with onion and tomato gravy", "Serve hot with rice"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.O9YvUfQCJM5CehCrYwpm3AHaEK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 7,
+    "name": "Palak Paneer",
+    "ingredients": ["Spinach", "Paneer", "Garlic", "Onion", "Cream"],
+    "steps": ["Boil spinach", "Blend into puree", "Cook with spices and paneer", "Add cream and serve"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.zNxHzYJsmYMQukl1fmAY_QHaFj?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 8,
+    "name": "Vegetable Pulao",
+    "ingredients": ["Rice", "Mixed Vegetables", "Ghee", "Spices"],
+    "steps": ["Fry spices in ghee", "Add vegetables and rice", "Cook till done"],
+    "image": "https://indianhealthyrecipes.com/wp-content/uploads/2015/09/veg-pulao-recipe.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 9,
+    "name": "Aloo Paratha",
+    "ingredients": ["Wheat Flour", "Potato", "Spices", "Ghee"],
+    "steps": ["Prepare dough", "Stuff with spiced potato", "Roll and roast with ghee"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.BF_c6FGy1wlK3WOBTqPWEwHaFE?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 10,
+    "name": "Biryani",
+    "ingredients": ["Rice", "Chicken", "Yogurt", "Spices", "Saffron"],
+    "steps": ["Marinate chicken", "Layer rice and chicken", "Cook on dum till aromatic"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.36Xq8DmAGywoCFyWOeBgGgHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 11,
+    "name": "Pav Bhaji",
+    "ingredients": ["Potato", "Tomato", "Onion", "Peas", "Spices", "Butter"],
+    "steps": ["Boil vegetables", "Mash and cook with masala", "Serve with buttered pav"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.MFfKds5yh0MfSUMXfOTIdgHaHa?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 12,
+    "name": "Samosa",
+    "ingredients": ["Potato", "Peas", "Spices", "Maida", "Oil"],
+    "steps": ["Prepare stuffing", "Make dough and fill", "Deep fry until golden"],
+    "image": "https://images.livemint.com/img/2021/12/22/1140x641/samosa_Swiggy_1640146963924_1640146983390.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 13,
+    "name": "Kadai Paneer",
+    "ingredients": ["Paneer", "Capsicum", "Tomato", "Onion", "Spices"],
+    "steps": ["Saute onion and capsicum", "Add tomato gravy", "Mix with paneer and cook"],
+    "image": "https://wallpapercave.com/wp/wp13998978.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 14,
+    "name": "Pani Puri",
+    "ingredients": ["Puri", "Tamarind Water", "Potato", "Onion", "Chickpeas"],
+    "steps": ["Make spicy water", "Stuff puris with potato and chutneys", "Dip and serve immediately"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.UpS84zU8MKTDurCxLANurQHaFb?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 15,
+    "name": "Matar Paneer",
+    "ingredients": ["Paneer", "Green Peas", "Tomato", "Onion", "Spices"],
+    "steps": ["Cook peas and paneer in tomato gravy", "Simmer until thick"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.gXc-wRFY9K3fmXQoMmqpxAHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 16,
+    "name": "Veg Sandwich",
+    "ingredients": ["Bread", "Cucumber", "Tomato", "Cheese", "Butter"],
+    "steps": ["Spread butter on bread", "Add veggies", "Grill or serve fresh"],
+    "image": "https://www.shutterstock.com/image-photo/veg-grilled-sandwich-served-ketchup-600w-1880490184.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 17,
+    "name": "Rasgulla",
+    "ingredients": ["Milk", "Sugar", "Water", "Cardamom"],
+    "steps": ["Prepare chenna", "Make balls", "Boil in sugar syrup"],
+    "image": "https://img.freepik.com/premium-photo/malai-chop-cream-sandwich-made-using-filling-rasgulla-gulab-jamun-sweet-is-bengali-sweet_466689-84217.jpg?w=2000",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 18,
+    "name": "Gulab Jamun",
+    "ingredients": ["Milk Powder", "Maida", "Sugar", "Ghee", "Cardamom"],
+    "steps": ["Make dough balls", "Fry till golden", "Soak in sugar syrup"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.8Un7TUJygceG1HQQc01csgHaHa?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 19,
+    "name": "Kheer",
+    "ingredients": ["Rice", "Milk", "Sugar", "Cardamom", "Nuts"],
+    "steps": ["Boil rice and milk", "Add sugar and cardamom", "Garnish with nuts"],
+    "image": "http://whatscookingmom.in/wp-content/uploads/2013/07/rice-kheer-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 20,
+    "name": "Poha",
+    "ingredients": ["Flattened Rice", "Onion", "Mustard Seeds", "Curry Leaves", "Peanuts"],
+    "steps": ["Soak poha lightly", "Fry mustard seeds, onions", "Mix with poha and peanuts"],
+    "image": "https://2.bp.blogspot.com/_jg7bOK0iY5E/S-b5FvInviI/AAAAAAAAAGQ/SbVL41SwyTc/s1600/Poha_01.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 21,
+    "name": "Pasta Alfredo",
+    "ingredients": ["Pasta", "Cream", "Garlic", "Butter", "Cheese"],
+    "steps": ["Boil pasta", "Prepare cream sauce", "Mix and cook", "Top with cheese"],
+    "image": "https://dinnerthendessert.com/wp-content/uploads/2021/05/Chicken-Alfredo-Pasta-1x1-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 22,
+    "name": "Chocolate Cake",
+    "ingredients": ["Flour", "Cocoa Powder", "Eggs", "Sugar", "Butter"],
+    "steps": ["Mix dry and wet ingredients", "Bake for 30 minutes", "Cool and frost"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.U2vRtrIJUVLsGubdlSiZPgHaHZ?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 23,
+    "name": "Fruit Salad",
+    "ingredients": ["Apple", "Banana", "Grapes", "Orange", "Honey"],
+    "steps": ["Chop all fruits", "Mix with honey", "Chill before serving"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.zqt2GRt1wWUA1xejK7CHPAHaHd?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 24,
+    "name": "Masala Dosa",
+    "ingredients": ["Rice", "Urad Dal", "Potato", "Onion", "Spices", "Oil"],
+    "steps": ["Prepare dosa batter", "Make potato filling", "Spread dosa and add masala", "Fold and serve with chutney"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.tLunGgBnKQnELpsfsQfaDwHaHa?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 25,
+    "name": "Idli Sambar",
+    "ingredients": ["Rice", "Urad Dal", "Toor Dal", "Tamarind", "Spices"],
+    "steps": ["Prepare idli batter", "Steam idlis", "Cook sambar with dal and veggies", "Serve hot with chutney"],
+    "image": "https://i0.wp.com/www.cookingfromheart.com/wp-content/uploads/2019/02/Ghee-Sambar-Idli-1.jpg?resize=600%2C400",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 26,
+    "name": "Paneer Tikka",
+    "ingredients": ["Paneer", "Yogurt", "Spices", "Capsicum", "Onion"],
+    "steps": ["Marinate paneer and veggies", "Skewer and grill till golden", "Serve with mint chutney"],
+    "image": "https://img.freepik.com/premium-photo/paneer-tikka-is-indian-dish-made-from-chunks-cottage-cheese-marinated-spices-grilled-tandoor_466689-76829.jpg?w=2000",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 27,
+    "name": "Mango Lassi",
+    "ingredients": ["Mango", "Yogurt", "Sugar", "Cardamom"],
+    "steps": ["Blend mango, yogurt, and sugar", "Add cardamom and serve chilled"],
+    "image": "https://www.jocooks.com/wp-content/uploads/2013/02/mango-lassi-1-7.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 28,
+    "name": "Spring Rolls",
+    "ingredients": ["Spring Roll Sheets", "Cabbage", "Carrot", "Soy Sauce", "Oil"],
+    "steps": ["Prepare vegetable stuffing", "Wrap in sheets", "Deep fry till crisp"],
+    "image": "https://www.fajarmag.com/wp-content/uploads/2020/04/spring-roll-recipe-step-by-step-instructions-scaled.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 29,
+    "name": "Tandoori Chicken",
+    "ingredients": ["Chicken", "Yogurt", "Lemon Juice", "Spices"],
+    "steps": ["Marinate chicken overnight", "Roast or grill till smoky", "Serve with lemon wedges"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.r2ZxrOX6gsFfJtWXThW-3QHaEK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 30,
+    "name": "Vada Pav",
+    "ingredients": ["Potato", "Gram Flour", "Pav", "Garlic Chutney", "Oil"],
+    "steps": ["Make spiced potato balls", "Coat with batter and fry", "Assemble in pav with chutneys"],
+    "image": "https://blog.swiggy.com/wp-content/uploads/2024/11/Image-1_mumbai-vada-pav.png",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 31,
+    "name": "Rava Kesari",
+    "ingredients": ["Rava", "Sugar", "Ghee", "Cardamom", "Cashews"],
+    "steps": ["Roast rava in ghee", "Add sugar syrup", "Cook till thick and glossy"],
+    "image": "https://southindianfoods.in/gallery/sooji-kesari-bath.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 32,
+    "name": "Hakka Noodles",
+    "ingredients": ["Noodles", "Capsicum", "Carrot", "Soy Sauce", "Vinegar"],
+    "steps": ["Boil noodles", "Stir fry vegetables", "Add sauces and toss noodles"],
+    "image": "https://img.freepik.com/premium-photo/schezwan-noodles-vegetable-hakka-noodles-chow-mein-is-popular-indo-chinese-recipes-served-bowl-plate-with-wooden-chopsticks_466689-46285.jpg?w=2000",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 33,
+    "name": "Falooda",
+    "ingredients": ["Vermicelli", "Milk", "Basil Seeds", "Ice Cream", "Rose Syrup"],
+    "steps": ["Soak basil seeds", "Layer milk, vermicelli, and rose syrup", "Top with ice cream and nuts"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.Yl16-7BrmdiNKAm9nBQoewHaLG?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+
+  {
+    "id": 34,
+    "name": "Margherita Pizza",
+    "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella", "Basil", "Olive Oil"],
+    "steps": ["Spread tomato sauce on dough", "Add mozzarella and basil", "Bake until cheese melts"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.7aXX80KwaAiwZhxtVgRDjwHaE7?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 35,
+    "name": "Pasta Carbonara",
+    "ingredients": ["Spaghetti", "Eggs", "Parmesan", "Bacon", "Black Pepper"],
+    "steps": ["Cook pasta", "Mix eggs and cheese", "Combine with bacon and hot pasta"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.oxV5YHBgJa7SzIQAVB-eBAHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 36,
+    "name": "Tacos",
+    "ingredients": ["Tortillas", "Minced Beef", "Lettuce", "Cheese", "Tomato Salsa"],
+    "steps": ["Cook minced beef with spices", "Fill tortillas", "Top with veggies and cheese"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.Njy-lLsZNZEOaPu-sKcysAHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 37,
+    "name": "Sushi Rolls",
+    "ingredients": ["Sushi Rice", "Nori", "Cucumber", "Avocado", "Fish"],
+    "steps": ["Spread rice on nori", "Add fillings", "Roll and slice into pieces"],
+    "image": "https://i.pinimg.com/originals/88/fe/65/88fe650036b69d12f0bfe92625d3764c.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 38,
+    "name": "Cheeseburger",
+    "ingredients": ["Burger Bun", "Beef Patty", "Cheese", "Lettuce", "Tomato", "Sauce"],
+    "steps": ["Grill beef patty", "Assemble with cheese and veggies", "Serve with fries"],
+    "image": "https://www.foodrepublic.com/img/gallery/all-american-cheeseburger-recipe/intro-import.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 39,
+    "name": "Caesar Salad",
+    "ingredients": ["Lettuce", "Croutons", "Parmesan", "Caesar Dressing", "Chicken"],
+    "steps": ["Toss lettuce with dressing", "Add croutons and cheese", "Top with grilled chicken"],
+    "image": "https://ellerepublic.de/wp-content/uploads/2022/04/Klassischer-Caesar-Salad-mit-Haehnchen-Rezept-1-of-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 40,
+    "name": "French Fries",
+    "ingredients": ["Potatoes", "Oil", "Salt"],
+    "steps": ["Cut potatoes into strips", "Deep fry until golden", "Sprinkle salt and serve hot"],
+    "image": "https://static.vecteezy.com/system/resources/previews/027/536/411/large_2x/delicious-french-fries-on-a-white-background-photo.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 41,
+    "name": "Pancakes",
+    "ingredients": ["Flour", "Eggs", "Milk", "Sugar", "Butter"],
+    "steps": ["Prepare batter", "Cook on pan until golden", "Serve with syrup or fruit"],
+    "image": "https://www.allrecipes.com/thmb/WqWggh6NwG-r8PoeA3OfW908FUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-Good-old-Fashioned-Pancakes-mfs_001-1fa26bcdedc345f182537d95b6cf92d8.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 42,
+    "name": "Lasagna",
+    "ingredients": ["Lasagna Sheets", "Minced Meat", "Tomato Sauce", "Cheese", "Bechamel Sauce"],
+    "steps": ["Layer pasta, meat sauce, and cheese", "Bake until golden and bubbly"],
+    "image": "https://www.simplyrecipes.com/thmb/YuOMkKKjH9ezQGCetN7yAmVFANc=/2000x1333/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2012__11__Vegetarian-Lasagna-LEAD-1-6173a71bfd1347aa8d7659150e87b8f4.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 43,
+    "name": "Garlic Bread",
+    "ingredients": ["Bread", "Garlic", "Butter", "Parsley"],
+    "steps": ["Spread garlic butter on bread", "Bake until crispy and fragrant"],
+    "image": "https://static01.nyt.com/images/2018/12/11/dining/as-garlic-bread/as-garlic-bread-threeByTwoMediumAt2X.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 44,
+    "name": "Chicken Wings",
+    "ingredients": ["Chicken Wings", "Hot Sauce", "Butter", "Garlic"],
+    "steps": ["Fry wings", "Coat in hot sauce and butter mix", "Serve with dip"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.Zun97KETf-DQXz6QHlgPLwHaJQ?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 45,
+    "name": "Fried Rice",
+    "ingredients": ["Rice", "Eggs", "Soy Sauce", "Vegetables", "Oil"],
+    "steps": ["Stir fry vegetables and egg", "Add rice and soy sauce", "Mix well and serve hot"],
+    "image": "https://www.nestleprofessional.in/sites/default/files/2022-07/Fried-Rice.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 46,
+    "name": "Ramen",
+    "ingredients": ["Noodles", "Broth", "Egg", "Chicken", "Vegetables"],
+    "steps": ["Boil noodles in broth", "Add toppings like egg and chicken", "Serve hot"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.wK0bLO4v7hv5FV8IlEMiugHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 47,
+    "name": "Fish and Chips",
+    "ingredients": ["Fish Fillets", "Potatoes", "Flour", "Oil", "Salt"],
+    "steps": ["Batter-coat fish", "Fry fish and fries until golden", "Serve with tartar sauce"],
+    "image": "https://s.yimg.com/ny/api/res/1.2/CpxsKxPZkIRIueNlzQtP2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/food_wine_804/a9558537d459634e879546bc81a95441",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 48,
+    "name": "Shawarma",
+    "ingredients": ["Chicken", "Pita Bread", "Garlic Sauce", "Lettuce", "Tomato"],
+    "steps": ["Grill marinated chicken", "Stuff in pita with veggies and sauce"],
+    "image": "https://static1.bigstockphoto.com/9/3/3/large1500/339698860.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 49,
+    "name": "Veggie Burger",
+    "ingredients": ["Burger Bun", "Veg Patty", "Lettuce", "Tomato", "Cheese"],
+    "steps": ["Grill or fry veggie patty", "Assemble burger with toppings"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.ioBBpBRDDsNw7SIAqxf6rQHaLH?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 50,
+    "name": "Chocolate Mousse",
+    "ingredients": ["Chocolate", "Cream", "Sugar", "Eggs"],
+    "steps": ["Melt chocolate", "Fold with whipped cream and eggs", "Chill before serving"],
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2020/02/chocolate-mousse-3.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 51,
+    "name": "French Toast",
+    "ingredients": ["Bread", "Eggs", "Milk", "Sugar", "Cinnamon"],
+    "steps": ["Dip bread in egg mixture", "Cook on pan till golden", "Serve with honey or syrup"],
+    "image": "https://krystelscooking.com/wp-content/uploads/2023/08/frenchnew1.png",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 52,
+    "name": "Brownies",
+    "ingredients": ["Flour", "Cocoa Powder", "Butter", "Sugar", "Eggs"],
+    "steps": ["Mix all ingredients", "Bake until firm", "Cool and cut into squares"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.inY5KUrxPLFiRUSRQ9zLWAHaFt?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 53,
+    "name": "Ice Cream Sundae",
+    "ingredients": ["Ice Cream", "Chocolate Syrup", "Whipped Cream", "Nuts", "Cherries"],
+    "steps": ["Scoop ice cream", "Top with syrup, cream, and nuts", "Garnish with cherry"],
+    "image": "https://www.brit.co/media-library/ice-cream-sundaes-in-a-pink-bowl-with-sprinkles.jpg?id=21919567&width=1200&height=1056",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 54,
+    "name": "Waffles",
+    "ingredients": ["Flour", "Eggs", "Milk", "Sugar", "Butter"],
+    "steps": ["Mix ingredients into batter", "Pour into waffle maker", "Cook until golden and serve with syrup"],
+    "image": "https://sallysbakingaddiction.com/wp-content/uploads/2023/09/pumpkin-waffles-3-1024x1536.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 55,
+    "name": "Strawberry Milkshake",
+    "ingredients": ["Strawberries", "Milk", "Ice Cream", "Sugar"],
+    "steps": ["Blend strawberries, milk, and ice cream", "Serve chilled with whipped cream"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.5IQ5JxeaIo9vnvAiidWj9QHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 56,
+    "name": "Donuts",
+    "ingredients": ["Flour", "Sugar", "Yeast", "Milk", "Oil", "Chocolate Glaze"],
+    "steps": ["Prepare dough", "Fry until golden", "Coat with glaze or sugar"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.Y31uBvwfQ6801ED60czMVgHaE7?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 57,
+    "name": "Mango Smoothie",
+    "ingredients": ["Mango", "Yogurt", "Milk", "Honey"],
+    "steps": ["Blend all ingredients", "Serve chilled"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.ACLsvl0AFhJLKYjZlc1TcAHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 58,
+    "name": "Blueberry Cheesecake",
+    "ingredients": ["Cream Cheese", "Sugar", "Eggs", "Blueberries", "Graham Cracker Crust"],
+    "steps": ["Prepare crust", "Pour cheesecake mix", "Bake and top with blueberries"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.lavrsy3mJzGcOf74eAtm6AHaEE?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 59,
+    "name": "Tiramisu",
+    "ingredients": ["Mascarpone", "Coffee", "Ladyfingers", "Cocoa Powder", "Sugar"],
+    "steps": ["Dip ladyfingers in coffee", "Layer with mascarpone mix", "Chill and dust with cocoa"],
+    "image": "https://i.pinimg.com/originals/b7/46/ee/b746ee2653c180da2c34f6cfb3df2570.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 60,
+    "name": "Chocolate Cake",
+    "ingredients": ["Flour", "Cocoa Powder", "Eggs", "Butter", "Sugar"],
+    "steps": ["Mix ingredients", "Bake until fluffy", "Frost with chocolate icing"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.BjPgBvFey1AUpTuNYu2ndgHaHa?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 61,
+    "name": "Apple Pie",
+    "ingredients": ["Apples", "Sugar", "Cinnamon", "Pie Crust"],
+    "steps": ["Fill crust with apple mix", "Cover and bake until golden"],
+    "image": "https://www.seannaskitchen.com/wp-content/uploads/2022/11/Mini-Apple-Pies-Featured-Image-darker.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 62,
+    "name": "Lemonade",
+    "ingredients": ["Lemons", "Water", "Sugar", "Ice"],
+    "steps": ["Squeeze lemons", "Mix with water and sugar", "Add ice and serve cold"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.Lua3pt1Rg2Xa1QdId7SrdwHaEK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 63,
+    "name": "Cold Coffee",
+    "ingredients": ["Coffee", "Milk", "Sugar", "Ice Cream"],
+    "steps": ["Blend all ingredients", "Pour into glass and top with ice cream"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.wmYROBT_T6liNFcwi6I_gAHaJ3?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 64,
+    "name": "Hot Chocolate",
+    "ingredients": ["Milk", "Cocoa Powder", "Sugar", "Cream"],
+    "steps": ["Heat milk and cocoa mix", "Top with cream or marshmallows"],
+    "image": "https://thefoodist.com.sg/wp-content/uploads/2025/01/baileys-hot-chocolate-recipe-1736308850.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+    {
+    "id": 65,
+    "name": "Cupcakes",
+    "ingredients": ["Flour", "Sugar", "Butter", "Eggs", "Frosting"],
+    "steps": ["Mix batter", "Bake in cups", "Decorate with frosting"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.CTCTCXY_QA0eHI0ELkZEYQHaE7?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 66,
+    "name": "Banana Bread",
+    "ingredients": ["Bananas", "Flour", "Sugar", "Butter", "Eggs"],
+    "steps": ["Mash bananas", "Mix with other ingredients", "Bake until golden"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.jdVJAvNRDT41h_ZGUCFt0AHaLH?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 67,
+    "name": "Oreo Milkshake",
+    "ingredients": ["Oreos", "Milk", "Vanilla Ice Cream"],
+    "steps": ["Blend all ingredients", "Top with whipped cream and crushed Oreos"],
+    "image": "https://fullkitchenrecipes.com/wp-content/uploads/2023/01/Untitled-design19.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 68,
+    "name": "Pudding",
+    "ingredients": ["Milk", "Sugar", "Cornstarch", "Vanilla"],
+    "steps": ["Cook ingredients until thick", "Chill and serve with toppings"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.RjNbbPrf9KmvJm8hGoYLQAHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 69,
+    "name": "Brown Sugar Milk Tea",
+    "ingredients": ["Tea", "Brown Sugar", "Tapioca Pearls", "Milk"],
+    "steps": ["Prepare pearls and brown sugar syrup", "Mix with tea and milk", "Serve cold"],
+    "image": "https://i.pinimg.com/originals/8a/6e/a0/8a6ea0f394d9be2e8e1a2fe88870b044.png",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 70,
+    "name": "Choco Lava Cake",
+    "ingredients": ["Chocolate", "Butter", "Sugar", "Eggs", "Flour"],
+    "steps": ["Bake for few minutes until center is molten", "Serve hot with ice cream"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.eIlgunjo4s1oC-yeQarStwHaHa?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 71,
+    "name": "Fruit Punch",
+    "ingredients": ["Orange Juice", "Pineapple Juice", "Lemon", "Soda", "Ice"],
+    "steps": ["Mix juices", "Add soda and ice", "Serve chilled with fruit slices"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.D2CzSu0M5iWD4sVDwf7HaAHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 73,
+    "name": "Baingan Bharta",
+    "ingredients": ["Eggplant", "Onion", "Tomato", "Spices"],
+    "steps": ["Roast and mash eggplant", "Cook with onions and spices"],
+    "image": "https://thumbs.dreamstime.com/b/punjabi-baingan-bharta-punjabi-baingan-bharta-indian-spicy-eggplant-mash-99619124.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+{
+    "id": 74,
+    "name": "Egg Curry",
+    "ingredients": ["Eggs", "Onion", "Tomato", "Spices", "Oil"],
+    "steps": ["Boil eggs", "Prepare onion-tomato masala", "Add eggs and simmer"],
+    "image": "https://paattiskitchen.com/wp-content/uploads/2023/02/kmc_20230205_231723.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 75,
+    "name": "Fish Curry",
+    "ingredients": ["Fish", "Coconut Milk", "Tamarind", "Spices"],
+    "steps": ["Marinate fish", "Cook in spicy coconut gravy"],
+    "image": "https://i.ytimg.com/vi/qstxR_Jh4aY/maxresdefault.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 76,
+    "name": "Prawn Curry",
+    "ingredients": ["Prawns", "Coconut Milk", "Onion", "Spices"],
+    "steps": ["Sauté prawns", "Add coconut gravy and simmer"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.QUFci6O5owLRtbwtugA3lQHaEK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 77,
+    "name": "Mutton Curry",
+    "ingredients": ["Mutton", "Onion", "Tomato", "Ginger Garlic", "Spices"],
+    "steps": ["Cook mutton with masala", "Add water and simmer till tender"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.XVVPLHAQGdFHtim1Byb0agHaIE?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 78,
+    "name": "Vegetable Kurma",
+    "ingredients": ["Mixed Vegetables", "Coconut", "Spices", "Cashews"],
+    "steps": ["Cook vegetables", "Add coconut-cashew paste", "Simmer till thick"],
+    "image": "https://tse1.mm.bing.net/th/id/OIP.AMpXCkl70hUFgZz0dhCuuQHaEK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 79,
+    "name": "Dal Tadka",
+    "ingredients": ["Toor Dal", "Garlic", "Tomato", "Ghee", "Spices"],
+    "steps": ["Cook dal", "Prepare tempering and mix"],
+    "image": "https://vegecravings.com/wp-content/uploads/2018/01/Dal-Tadka-Recipe-Step-By-Step-Instructions.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 80,
+    "name": "Sambar",
+    "ingredients": ["Toor Dal", "Tamarind", "Vegetables", "Sambar Powder"],
+    "steps": ["Cook dal", "Add tamarind and veggies", "Boil with sambar masala"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.Sy8hGYLLLYvrJpdb7U0LOgHaE8?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 81,
+    "name": "Rasam",
+    "ingredients": ["Tamarind", "Tomato", "Pepper", "Garlic", "Curry Leaves"],
+    "steps": ["Boil tamarind water", "Add rasam powder and tempering"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.BoJZVYFwYYkgccEFU4I1FwHaE7?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 82,
+    "name": "Korma Chicken",
+    "ingredients": ["Chicken", "Yogurt", "Cashew", "Spices", "Cream"],
+    "steps": ["Cook marinated chicken in creamy cashew gravy"],
+    "image": "https://i.ytimg.com/vi/7VSHAXV3lFs/maxresdefault.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 83,
+    "name": "Dum Biryani",
+    "ingredients": ["Basmati Rice", "Chicken", "Yogurt", "Spices", "Mint"],
+    "steps": ["Cook layers of rice and chicken on dum"],
+    "image": "https://vismaifood.com/storage/app/uploads/public/e12/7b7/127/thumb__700_0_0_0_auto.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+    {
+    "id": 84,
+    "name": "Kadhi Pakora",
+    "ingredients": ["Yogurt", "Gram Flour", "Onion", "Spices"],
+    "steps": ["Prepare kadhi", "Add fried pakoras and simmer"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.KwSCD_TkNf2PY4NxdOBX8AHaNK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 85,
+    "name": "Methi Malai Matar",
+    "ingredients": ["Fenugreek Leaves", "Green Peas", "Cream", "Cashew Paste"],
+    "steps": ["Cook methi and peas in creamy gravy"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.Vy43x9YNZG3rYwq4-LaP1gHaF-?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id":86,
+    "name": "Malai Kofta",
+    "ingredients": ["Paneer", "Potato", "Cream", "Cashews", "Tomatoes"],
+    "steps": ["Prepare koftas", "Add to creamy tomato gravy"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.Q9Au0pSwH8dBYHEpXmfO6gHaHa?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 87,
+    "name": "Bhindi Masala",
+    "ingredients": ["Ladyfinger", "Onion", "Tomato", "Spices"],
+    "steps": ["Sauté bhindi and cook with onion-tomato masala"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.hTZG_v0BT9JdJ7WAhTAemQHaEK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+    {
+    "id": 88,
+    "name": "Tamarind Curry (Pulusu)",
+    "ingredients": ["Tamarind", "Drumstick", "Onion", "Spices"],
+    "steps": ["Boil tamarind water", "Add vegetables and simmer"],
+    "image": "https://i.ytimg.com/vi/DpRnsB5OWyI/maxresdefault.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 89,
+    "name": "Gongura Mutton",
+    "ingredients": ["Mutton", "Gongura Leaves", "Onion", "Spices"],
+    "steps": ["Cook mutton", "Add gongura paste and simmer"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.nr7mPW6SsGxut3lsEWJKuwHaEK?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 90,
+    "name": "Cabbage Curry",
+    "ingredients": ["Cabbage", "Green Chilies", "Mustard Seeds", "Curry Leaves"],
+    "steps": ["Sauté ingredients and cook till soft"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.YmrrJm_hWBsTxDpz2nLvcwHaQS?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 91,
+    "name": "Drumstick Curry",
+    "ingredients": ["Drumstick", "Tomato", "Onion", "Tamarind", "Spices"],
+    "steps": ["Boil drumstick with tamarind gravy"],
+    "image": "https://i.ytimg.com/vi/x8sBJF56RRo/maxresdefault.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 92,
+    "name": "Chili Chicken",
+    "ingredients": ["Chicken", "Capsicum", "Soy Sauce", "Garlic", "Cornflour"],
+    "steps": ["Fry chicken", "Toss in spicy soy-based sauce"],
+    "image": "https://i.ytimg.com/vi/dLp6s7ZeFuM/maxresdefault.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 93,
+    "name": "Gobi Manchurian",
+    "ingredients": ["Cauliflower", "Cornflour", "Soy Sauce", "Garlic", "Chili Sauce"],
+    "steps": ["Fry gobi florets", "Mix with spicy Manchurian sauce"],
+    "image": "https://rainbowplantlife.com/wp-content/uploads/2022/02/Gobi-Manchurian-cover-photo-on-white-tile-1-of-1.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 94,
+    "name": "Navratan Korma",
+    "ingredients": ["Mixed Vegetables", "Paneer", "Cashews", "Raisins", "Cream", "Spices"],
+    "steps": ["Cook vegetables till tender", "Prepare rich cashew-cream gravy", "Add vegetables and paneer, simmer with spices"],
+    "image": "https://d33wubrfki0l68.cloudfront.net/95dcf0630752c5916b1341239c34292987cbf24a/1dd33/static/77292b3c10fc1bba30de84417d09962f/0e329/6778ceda895cc72f8e127ec594618e83.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 95,
+    "name": "Paneer Lababdar",
+    "ingredients": ["Paneer", "Tomato", "Onion", "Cream", "Spices"],
+    "steps": ["Make smooth tomato-onion gravy", "Add paneer cubes and cream", "Simmer until glossy"],
+    "image": "https://vegecravings.com/wp-content/uploads/2017/04/paneer-butter-masala-recipe-step-by-step-instructions.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 96,
+    "name": "Paneer Jalfrezi",
+    "ingredients": ["Paneer", "Capsicum", "Onion", "Tomato", "Jalfrezi Masala"],
+    "steps": ["Stir-fry vegetables on high heat", "Add paneer and jalfrezi masala", "Toss quickly and serve"],
+    "image": "https://tse4.mm.bing.net/th/id/OIP.DmhRyLUrDPx3aGFZAnoRMQHaD4?pid=Api&P=0&h=180",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 97,
+    "name": "Achari Paneer",
+    "ingredients": ["Paneer", "Pickling Spices", "Tomato", "Onion", "Yogurt"],
+    "steps": ["Prepare achari masala", "Cook tomatoes and onions", "Add paneer and tangy achari mix"],
+    "image":  "https://www.desidakaar.com/wp-content/uploads/2017/02/Achari-Paneer-Tikka-Recipe.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 98,
+    "name": "Paneer Kali Mirch",
+    "ingredients": ["Paneer", "Black Pepper", "Onion", "Tomato", "Cream"],
+    "steps": ["Sauté onions and pepper", "Add tomato gravy and cream", "Toss in paneer and finish with cracked pepper"],
+    "image": "https://www.blissofcooking.com/wp-content/uploads/2017/02/Paneer-Kali-Mirch-in-Makhana-Gravy-EOP-Adj-e1486282617660.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 99,
+    "name": "Dhaba Style Mix Vegetable",
+    "ingredients": ["Mixed Vegetables", "Tomato", "Onion", "Ginger Garlic", "Dhaba Masala"],
+    "steps": ["Cook onion-tomato base", "Add mixed vegetables and dhaba spices", "Simmer until flavors meld"],
+    "image": "https://i.ytimg.com/vi/sh1o4S4MKWs/hqdefault.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  },
+  {
+    "id": 100,
+    "name": "Kaddu (Pumpkin) Curry",
+    "ingredients": ["Pumpkin", "Onion", "Tomato", "Turmeric", "Spices"],
+    "steps": ["Sauté aromatics", "Add pumpkin and spices", "Cook till soft and slightly caramelized"],
+    "image": "https://i.ytimg.com/vi/N589Yum3ziQ/maxresdefault.jpg",
+    "imageWidth": 600,
+    "imageHeight": 400
+  }
+
+]
